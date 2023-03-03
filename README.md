@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-03 21:14:55
+Report last run: 2023-03-03 21:57:08
 
 ## Introduction
 
@@ -10,6 +10,8 @@ Times to illustrate the use of automation processes.
 
 First, we load some necessary libraries, define some key variables, then
 read in the data:
+
+Modified version of the file
 
 ``` r
 library(dplyr)
