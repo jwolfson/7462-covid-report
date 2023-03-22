@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-21 23:23:31
+Report last run: 2023-03-22 23:21:50
 
 ## Introduction
 
@@ -112,7 +112,7 @@ rate_data %>%
 |:-------------|:------|--------:|-----------:|
 | Delta        | Texas |    5331 |     147102 |
 | Frio         | Texas |   20306 |       6259 |
-| Denton       | Texas |  887207 |       4896 |
+| Denton       | Texas |  887207 |       4848 |
 | Loving       | Texas |     169 |       4142 |
 | Jones        | Texas |   20083 |       3934 |
 | Hudspeth     | Texas |    4886 |       3909 |
